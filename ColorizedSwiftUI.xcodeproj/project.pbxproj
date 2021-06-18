@@ -12,6 +12,8 @@
 		36854CE5267BA8D300D62172 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36854CE4267BA8D300D62172 /* Assets.xcassets */; };
 		36854CE8267BA8D300D62172 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36854CE7267BA8D300D62172 /* Preview Assets.xcassets */; };
 		36854CF0267BAC1500D62172 /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36854CEF267BAC1500D62172 /* ColorView.swift */; };
+		36854CF4267BB0B700D62172 /* ValueLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36854CF3267BB0B700D62172 /* ValueLabel.swift */; };
+		36854CF6267BB17C00D62172 /* ValueTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36854CF5267BB17C00D62172 /* ValueTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		36854CE7267BA8D300D62172 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		36854CE9267BA8D300D62172 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36854CEF267BAC1500D62172 /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
+		36854CF3267BB0B700D62172 /* ValueLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValueLabel.swift; sourceTree = "<group>"; };
+		36854CF5267BB17C00D62172 /* ValueTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValueTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				36854CE0267BA8D000D62172 /* ColorizedSwiftUIApp.swift */,
 				36854CE2267BA8D000D62172 /* ContentView.swift */,
 				36854CEF267BAC1500D62172 /* ColorView.swift */,
+				36854CF3267BB0B700D62172 /* ValueLabel.swift */,
+				36854CF5267BB17C00D62172 /* ValueTextField.swift */,
 				36854CE4267BA8D300D62172 /* Assets.xcassets */,
 				36854CE9267BA8D300D62172 /* Info.plist */,
 				36854CE6267BA8D300D62172 /* Preview Content */,
@@ -141,6 +147,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36854CF6267BB17C00D62172 /* ValueTextField.swift in Sources */,
+				36854CF4267BB0B700D62172 /* ValueLabel.swift in Sources */,
 				36854CF0267BAC1500D62172 /* ColorView.swift in Sources */,
 				36854CE3267BA8D000D62172 /* ContentView.swift in Sources */,
 				36854CE1267BA8D000D62172 /* ColorizedSwiftUIApp.swift in Sources */,
