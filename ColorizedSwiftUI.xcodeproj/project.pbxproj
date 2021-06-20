@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3665735B267C7CE2005A329C /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3665735A267C7CE2005A329C /* ColorSlider.swift */; };
 		36854CE1267BA8D000D62172 /* ColorizedSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36854CE0267BA8D000D62172 /* ColorizedSwiftUIApp.swift */; };
 		36854CE3267BA8D000D62172 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36854CE2267BA8D000D62172 /* ContentView.swift */; };
 		36854CE5267BA8D300D62172 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36854CE4267BA8D300D62172 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3665735A267C7CE2005A329C /* ColorSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
 		36854CDD267BA8D000D62172 /* ColorizedSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorizedSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36854CE0267BA8D000D62172 /* ColorizedSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorizedSwiftUIApp.swift; sourceTree = "<group>"; };
 		36854CE2267BA8D000D62172 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				36854CEF267BAC1500D62172 /* ColorView.swift */,
 				36854CF3267BB0B700D62172 /* ValueLabel.swift */,
 				36854CF5267BB17C00D62172 /* ValueTextField.swift */,
+				3665735A267C7CE2005A329C /* ColorSlider.swift */,
 				36854CE4267BA8D300D62172 /* Assets.xcassets */,
 				36854CE9267BA8D300D62172 /* Info.plist */,
 				36854CE6267BA8D300D62172 /* Preview Content */,
@@ -151,6 +154,7 @@
 				36854CF4267BB0B700D62172 /* ValueLabel.swift in Sources */,
 				36854CF0267BAC1500D62172 /* ColorView.swift in Sources */,
 				36854CE3267BA8D000D62172 /* ContentView.swift in Sources */,
+				3665735B267C7CE2005A329C /* ColorSlider.swift in Sources */,
 				36854CE1267BA8D000D62172 /* ColorizedSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
