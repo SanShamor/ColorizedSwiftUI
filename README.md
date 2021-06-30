@@ -1,3 +1,3 @@
 # ColorizedSwiftUI
 
-It's homework for the course "online.swiftbook.ru" on swiftUI.
+It's homework for "online.swiftbook.ru" - course redesigned for swifttUI.
